@@ -1,24 +1,3 @@
-<div>
-<p>
-<h1>Soheil Vanaee</h1>
-I'm deeply passionate about programming and computers.
-It's been two years since I started my educational journey, and I'm currently immersed in pursuing an Associate's degree in IT at the technical college.
-
-Things I'm skilled in:
-Python - HTML/CSS - Vanilla JavaScript (no specific frameworks, just the good ol' JavaScript) - Django - Django REST framework - Bash - Linux - Git.
-I also have a fairly good familiarity with:
-VS Code - PyCharm.
-
-<details>
-<summary>More</summary> <br>
-  
-Using Django, I can lend a hand in bringing your web visions to life. Whether you're building a website from scratch or need someone to take over the back-end development and support, I've got you covered.
-
-I work remotely and whether it's freelancing (back-end focus) or corporate, the setting makes no difference to me.
-
-Due to my relatively young age, I might not have an extensive work history (but then again, everyone has to start somewhere, right?).
-</details>
-
 </p>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> </a>
 <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/> </a>
